@@ -79,8 +79,6 @@ npm run tokens:figma:import
 Token details:
 
 - [`docs/TOKENS.md`](./docs/TOKENS.md)
-- [`docs/INTERVIEW_STUDY_GUIDE.md`](./docs/INTERVIEW_STUDY_GUIDE.md)
-- [`docs/VUETIFY_MIGRATION.md`](./docs/VUETIFY_MIGRATION.md)
 
 ## Component Playground
 
