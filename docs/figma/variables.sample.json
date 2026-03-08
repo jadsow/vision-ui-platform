@@ -1,0 +1,31 @@
+{
+  "modes": [
+    { "modeId": "1:0", "name": "Light" },
+    { "modeId": "1:1", "name": "Dark" }
+  ],
+  "variables": [
+    {
+      "name": "color/primary",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "1:0": { "r": 0.0588235294, "g": 0.3843137254, "b": 0.9960784314, "a": 1 },
+        "1:1": { "r": 0.368627451, "g": 0.631372549, "b": 1, "a": 1 }
+      }
+    },
+    {
+      "name": "spacing/md",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "1:0": 16
+      }
+    },
+    {
+      "name": "typography/font-size/lg",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "1:0": 16
+      }
+    }
+  ]
+}
+
